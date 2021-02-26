@@ -1,0 +1,16 @@
+/*Style das páginas*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-align: center;
+    text-decoration: none;
+    color: gray;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: black;
+}
